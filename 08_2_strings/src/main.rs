@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Please input english words");
+    println!("Please input word list.");
 
     let mut input = String::new();
 
